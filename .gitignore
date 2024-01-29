@@ -1,0 +1,8 @@
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore virtual environment
+HS2-SnakeGrid-BNG-venv/
+
+# Ignore Git folder
+.git/
